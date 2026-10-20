@@ -1,0 +1,5 @@
+# Локальные заметки
+*.log
+.DS_Store
+.idea/
+.vscode/
